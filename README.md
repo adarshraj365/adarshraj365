@@ -1,4 +1,14 @@
-## Hi there 👋
+<h1 align="left">Hi 👋, I'm Adarsh.</h1>
+
+![](https://komarev.com/ghpvc/?username=adarshraj365)
+
+<h3 align=>About me:</h3>
+
+- Software engineer at Amazon (July 2022 - Present)
+
+- My [Resume](https://drive.google.com/file/d/1qpDrarolp7dIwrqOeXerDEdKIyIBtGNl/view?usp=drive_link)
+
+<br>
 
 <!--
 **adarshraj365/adarshraj365** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
