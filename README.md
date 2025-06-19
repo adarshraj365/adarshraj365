@@ -4,7 +4,8 @@
 
 <h3 align=>About me:</h3>
 
-- Software engineer at Amazon (July 2022 - Present)
+- Software engineer at Amazon (July 2022 - May 2025)
+- Software engineer at Amazon (June 2025 - Present)
 
 - My [Resume](https://drive.google.com/file/d/1qpDrarolp7dIwrqOeXerDEdKIyIBtGNl/view?usp=drive_link)
 
